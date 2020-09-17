@@ -1,0 +1,12 @@
+.jumbotron{
+    text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 5px solid black;
+}
+
+.topCard{
+text-align: center;
+border-top: 5px #000000;
+}
